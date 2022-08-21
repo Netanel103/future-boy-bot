@@ -1,0 +1,5 @@
+.env
+Systems/__pycache__
+Events/__pycache__
+Commands/Moderation/__pycache__
+Commands/Utils/__pycache__
